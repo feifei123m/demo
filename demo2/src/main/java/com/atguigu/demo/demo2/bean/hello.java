@@ -5,6 +5,7 @@ public class hello {
         System.out.println("hello, test git");
         System.out.println("I'm  ok....");
         System.out.println("收到，了解....");
+        System.out.println("组织已回复，加油....");
     }
 
 }
